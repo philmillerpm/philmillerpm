@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philmillerpm
-- 👀 I’m interested in ... Software Architecture, Clean Coding Practices, Data Science
+- 👀 I’m interested in ... Software Architecture, Clean Coding Practices, Data Science, Emulation
 - 🌱 I’m currently learning ... Data analysis via PySpark
 - 💞️ I’m looking to collaborate on ... Clean Software Engineering Patterns/Frameworks based around DDD
 - 📫 How to reach me ... philmillerpm@gmail.com
